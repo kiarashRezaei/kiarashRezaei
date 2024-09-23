@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kiarash Rezaei
+# Hi there 👋, I'm Kiarash
 
 ## 🚀 About Me
 I am a recent master graduate in **Telecommunication Engineering** from **Politecnico di Milano** with a deep passion for applying **data-driven methods** across diverse application domains, including **communication systems**, **Edge-AI sensors**, and **biomedical applications**. I am particularly interested in **Explainable AI (XAI)**, aiming to create AI models that are transparent and interpretable for end-users and stakeholders. My expertise spans **AI/ML**, **deep learning**, and **XAI**, with hands-on experience in developing scalable solutions tailored to specific domains.
