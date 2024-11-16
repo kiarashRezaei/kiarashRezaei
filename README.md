@@ -52,8 +52,8 @@ Here are some of the main courses I completed during my MSc in **Telecommunicati
 
 
 ## 📈 Publications
-- **IMU Self-Calibration by Means of Quantization-Aware and Memory-Parsimonious Neural Networks**  
-  Submitted to MDPI Electronics Journal, July 2024.
+- [**IMU Self-Calibration by Means of Quantization-Aware and Memory-Parsimonious Neural Networks**](https://www.mdpi.com/2079-9292/13/21/4278)                 
+  Published in MDPI Electronics Journal, October 2024.
 
 - **IMU User Transparent Tiny Neural Self-Calibration**  
   Published at the 8th International Conference of Research and Technologies for Society and Industry (IEEE RTSI 2024).
