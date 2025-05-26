@@ -10,7 +10,7 @@ I hold an MSc in **Telecommunication Engineering** from **Politecnico di Milano*
 
 ### 🎯 Research Interests  
 - **Trustworthy & Explainable AI (XAI)**  
-- **Domain Adaptation, Generalization and Representational Learning**  
+- **Domain Adaptation, Generalization and Representation Learning**  
 - **Robust ML for Communication & Networked Systems**  
 - **Edge AI**
 - I’m always open to research collaborations, technical discussions, and academic exchange in these areas.
