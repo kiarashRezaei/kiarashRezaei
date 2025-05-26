@@ -1,17 +1,21 @@
 # 👋 Hi, I'm Kiarash  
 
 ## 🚀 About Me  
-I am a recent **Telecommunication Engineering** master's graduate from **Politecnico di Milano**, driven by a deep passion for leveraging **data-driven methods** across diverse domains, such as **communication systems**, **Edge-AI sensors**, and **biomedical applications**.  
+I’m a PhD researcher at **Chalmers University of Technology**, working at the intersection of **trustworthy AI**, **explainable machine learning**, and **communication systems**. My research focuses on building robust, interpretable models for intelligent network management, with an emphasis on real-world reliability and generalization.
 
-I specialize in **Explainable AI (XAI)** and aim to develop transparent and interpretable AI models for stakeholders and end-users. My expertise includes **AI/ML**, **deep learning**, and **XAI**, complemented by hands-on experience in designing scalable, domain-specific solutions.  
+Before joining Chalmers, I worked as an **AI Researcher at STMicroelectronics**, where I developed quantization-aware and memory-efficient neural networks for edge AI applications. This experience deepened my interest in scalable and efficient ML for safety-critical systems.
 
-Most recently, I worked as an **AI Researcher at STMicroelectronics**, where I applied **TinyML** and **Quantization-Aware Training** techniques to develop innovative MEMS calibration solutions. I also utilized **XAI techniques** to make complex models more understandable in various applications, including communication networks, medical diagnostics, and sensor systems.
+I hold an MSc in **Telecommunication Engineering** from **Politecnico di Milano**, where I specialized in signal processing, statistical learning, and AI foundations.
 
-### 🎯 Interests  
-- 🌱 Currently expanding my expertise in **ML/DL applications**, **XAI**, and multidisciplinary AI/ML solutions.  
-- 🤝 Open to collaborations on **AI projects** focused on **communication systems**, **IoT sensors**, and **biomedical data**.  
-- 💬 Feel free to ask me about **Explainable AI**, **Deep Learning**, **Signal Processing**, or **Computer Vision**.  
-- 📫 Reach out: [LinkedIn](https://linkedin.com/in/kiarash-rezaei-149b4b175) | [Email](mailto:kiarashrezaei@yahoo.com)  
+
+### 🎯 Research Interests  
+- **Trustworthy & Explainable AI (XAI)**  
+- **Domain Adaptation, Generalization and Representational Learning**  
+- **Robust ML for Communication & Networked Systems**  
+- **Edge AI**
+- I’m always open to research collaborations, technical discussions, and academic exchange in these areas.
+
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/kiarash-rezaei-149b4b175) or reach out via [email](mailto:kiarashr@chalmers.se)
 - ⚡ Fun fact: I’m passionate about bridging the gap between **black-box models** and **human understanding**.  
 
 ---
@@ -83,27 +87,7 @@ Most recently, I worked as an **AI Researcher at STMicroelectronics**, where I a
 **Kharazmi University of Tehran** 
 - Thesis: Automatic Architecture Design of CNNs using Genetic Algorithm and Reinforcement Learning (MetaQNN)
 
----
-## 📚 Selected Courses
-Here are some of the main courses I completed during my MSc in **Telecommunication Engineering** at **Politecnico di Milano**:
-
-- **Network Measurement and Data Analysis Lab** (30/30 Cum Laude)
-- **Fundamentals of Signals and Transmission** (30/30 Cum Laude)
-- **Applied AI in Biomedicine** (30/30)
-- **Recommender Systems** (30/30)
-- **Game Theory** (29/30)
-- **Wireless Internet** (28/30)
-- **Image Analysis and Computer Vision** (27/30)
-- **Advanced Digital Signal Processing** (27/30)
-
----
-
 ## 🏆 Involvement  
-- Member of **PoliMi Data Science Association**.  
+- Member of **PoliMi Data Science Association**.
+- Executive Staff at **CICIS 2019** national conference.
 
----
-
-## 📫 Let's Connect  
-- [LinkedIn](https://linkedin.com/in/kiarash-rezaei-149b4b175)  
-- [GitHub](https://github.com/kiarashRezaei)  
-- [Email](mailto:kiarashrezaei@yahoo.com)  
