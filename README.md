@@ -1,87 +1,157 @@
-# 👋 Hi, I'm Kiarash  
+# 👋 Hi, I’m Kiarash Rezaei
 
-## 🚀 About Me  
-I’m a PhD researcher at **Chalmers University of Technology**, working at the intersection of **trustworthy AI**, **explainable machine learning**, and **communication systems**. My research focuses on building robust, interpretable models for intelligent network management, with an emphasis on real-world reliability and generalization.
+## 🚀 About Me
 
-Before joining Chalmers, I worked as an AI Researcher at **STMicroelectronics** and in different machine learning and data science roles at the startups **Datalobster** and **Envision** and at **RINA**, focusing on reliable ML for safety-critical systems.
+I’m a doctoral researcher in **Electrical Engineering at Chalmers University of Technology**, within the Communication, Antennas and Optical Networks (CAOS) Division.
 
-I hold an MSc in **Telecommunication Engineering** from **Politecnico di Milano**, where I specialized in signal processing, statistical learning, and AI foundations.
+My research focuses on **trustworthy autonomous networks**. I develop methods for **uncertainty quantification**, **conformal prediction**, and **risk control** for autonomous networks and O-RAN, investigating how calibrated uncertainty can support dependable decisions under distribution shift.
 
+Before joining Chalmers, I worked across AI research, data science, and machine learning engineering roles at **STMicroelectronics**, **AGap2/RINA**, **DataLobster**, and **Envision**. My experience spans memory-efficient neural networks for MEMS sensor self-calibration, industrial generative AI, anomaly detection, and computer vision.
 
-### 🎯 Research Interests  
-- **Trustworthy AI and Uncertainty Quantification**  
-- **Domain Adaptation, Generalization and Representation Learning**  
-- **Reliable ML for Communication & Networked Systems**  
-- **Edge AI**
-- I’m always open to research collaborations, technical discussions, and academic exchange in these areas.
+I hold an MSc in **Telecommunication Engineering** from **Politecnico di Milano**, specializing in **Signals and Data Analysis**.
 
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/kiarash-rezaei-149b4b175) or reach out via [email](mailto:kiarashr@chalmers.se)
-- ⚡ Fun fact: I’m passionate about bridging the gap between **black-box models** and **human understanding**.  
+### 🎯 Research Interests
 
----
+- Trustworthy Autonomous Networks
+- Uncertainty Quantification
+- Causal Inference
+- O-RAN
+- Conformal Prediction and Risk Control
+- Distribution Shift
+- Uncertainty Representation
+- Decision Theory
+- Explainable AI
 
-## 🛠 Tech Stack  
+I welcome research collaborations, technical discussions, and academic exchange in these areas.
 
-### **Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=oracle&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+📫 [Email](mailto:kiarashr@chalmers.se) · [LinkedIn](https://www.linkedin.com/in/kiarash-rezaei-149b4b175/) · [Google Scholar](https://scholar.google.com/citations?user=FFlunEcAAAAJ&hl=en) · [Website](https://kiarashrezaei.github.io/kiarash-rezaei/)
 
 ---
 
-### **MLOps & AutoML Platforms**  
-![Azure Machine Learning](https://img.shields.io/badge/-Azure%20Machine%20Learning-blue?style=flat-square&logo=microsoft-azure)  ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-orange?style=flat-square&logo=amazon-aws)  ![Google Vertex AI](https://img.shields.io/badge/-Google%20Vertex%20AI-yellow?style=flat-square&logo=google-cloud)
+## 🛠 Technical Skills
+
+**Programming:** Python · MATLAB · Java  
+**Machine Learning:** PyTorch · TensorFlow · scikit-learn  
+**Tools and Infrastructure:** Git · Linux · Docker · AWS · Azure · LaTeX  
+**MLOps and AutoML:** Azure Machine Learning · AWS SageMaker · Google Vertex AI
 
 ---
 
-## 📈 Main Publications  
+## 📚 Selected Publications
 
-### 1- [Policy-driven Conformal Prediction for Trustworthy QoT Estimation](https://research.chalmers.se/publication/549958/file/549958_Fulltext.pdf)
-- accepted for oral presentation at **OFC 2026**
-  
-### 2- [Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions](https://ieeexplore.ieee.org/document/11257542)
-- Presented at GenXNet Workshop, **IEEE WiMob 2025 conference**
-  
-### 3- [IMU Self-Calibration by Means of Quantization-Aware and Memory-Parsimonious Neural Networks](https://www.mdpi.com/2079-9292/13/21/4278)  
-- Published in **Electronics Journal**, October 2024  
+### 1. TRACE-CRC: Trajectory-Adaptive Conformal Risk Control for Multi-Step Channel State Information Prediction
 
-### 4- [IMU User Transparent Tiny Neural Self-Calibration](https://ieeexplore.ieee.org/abstract/document/10761916)  
-- Presented at **IEEE RTSI 2024**  
+**COPA 2026 · Proceedings of Machine Learning Research, 329, 984–1009**
+
+[Paper](https://proceedings.mlr.press/v329/rezaei26a.html) · [Code](https://github.com/kiarashRezaei/trace-crc)
+
+### 2. Human-Grounded Evaluation of Large Language Models for Optical Network Automation
+
+**ICTON 2026 · Invited Paper**
+
+[Paper](https://doi.org/10.1109/ICTON71309.2026.11704905)
+
+### 3. Bridging the Trust Gap in AI-Driven Optical Networks with Structured Explainability
+
+**OECC 2026 · Invited Paper**
+
+[Publication Record](https://research.chalmers.se/en/publication/552368)
+
+### 4. Policy-Driven Conformal Prediction for Trustworthy QoT Estimation
+
+**OFC 2026 · Oral Presentation**
+
+[Paper](https://doi.org/10.1364/OFC.2026.M4A.3) · [Code](https://github.com/kiarashRezaei/conformal-qot-ofc26)
+
+### 5. Generative Explainability for Next-Generation Networks: LLM-Augmented XAI with Mutual Feature Interactions
+
+**GenXNet Workshop · IEEE WiMob 2025**
+
+[Paper](https://doi.org/10.1109/WiMob66857.2025.11257542)
+
+### 6. Inertial Measurement Unit Self-Calibration by Quantization-Aware and Memory-Parsimonious Neural Networks
+
+**Electronics, 13(21), 4278 · 2024**
+
+[Paper](https://doi.org/10.3390/electronics13214278)
+
+### 7. IMU User Transparent Tiny Neural Self-Calibration
+
+**IEEE RTSI 2024**
+
+[Paper](https://doi.org/10.1109/RTSI61910.2024.10761916)
 
 ---
 
-## 🔥 Main Projects  
+## 🔥 Featured Projects
 
-### [Vehicle Detection and Counting using YOLOv8 + BYTETrack](https://github.com/kiarashRezaei/VehicleCounting-YOLOv8-ByteTrack-IACV)  
-- Built a real-time vehicle detection and counting system using YOLOv8 and BYTETrack.  
-- Focused on **smart transportation systems** and high-density environments.  
+### [TRACE-CRC](https://github.com/kiarashRezaei/trace-crc)
 
-### [Anomaly Detection for Optical Transponders](https://github.com/kiarashRezaei/AnomalyDetection_OpticalTransponders-NDA)  
-- Developed ML models to detect signal anomalies in optical transponders using constellation diagrams.  
+Trajectory-adaptive conformal risk control for multi-step channel state information prediction. Combines horizon-dependent error modelling, trajectory difficulty stratification, groupwise conformal calibration, and Learn-then-Test selection.
 
-### [Explainable AI for Tuberculosis Detection from X-ray Images](https://github.com/kiarashRezaei/XrayClassifier-CNN-Radiomics-XAI-AppliedAIinBiomed)  
-- Conducted a comparative study on classifiers for **biomedical image analysis** using **XAI techniques** like GradCAM and SHAP.  
+Includes reproducible experiments, validation utilities, compact inference caches, and publication figures and tables.
 
-### [KPI Traces Analysis for E-Marketing Evaluation](https://github.com/kiarashRezaei/KPIAnalysisForE-MarketingEvaluation-ADSP)  
-- Analyzed KPIs for 20 companies to optimize **e-marketing strategies**, a project proposed by **Google Italy**.  
+### [Conformal Prediction for Trustworthy QoT Estimation](https://github.com/kiarashRezaei/conformal-qot-ofc26)
+
+An end-to-end framework that translates calibrated prediction intervals into optical lightpath feasibility decisions through **risk-averse** and **efficiency-oriented** policies.
+
+Supports target-domain, transfer-learning, and zero-shot evaluation.
+
+### [Anomaly Detection for Optical Transponders](https://github.com/kiarashRezaei/AnomalyDetection_OpticalTransponders-NDA)
+
+Investigated machine learning approaches for detecting optical transponder faults using constellation diagrams from 16-QAM receivers.
+
+### [Explainable Chest X-Ray Classification](https://github.com/kiarashRezaei/XrayClassifier-CNN-Radiomics-XAI-AppliedAIinBiomed)
+
+Compared machine learning and deep learning approaches for classifying pneumonia, tuberculosis, and normal chest X-rays, alongside explainability methods for examining model decisions.
+
+### [Vehicle Detection, Tracking, and Counting](https://github.com/kiarashRezaei/VehicleCounting-YOLOv8-ByteTrack-IACV)
+
+Built a video-analysis pipeline using **YOLOv8** and **ByteTrack**, addressing vehicle tracking and counting under occlusion and challenging lighting conditions.
+
+---
+
+## 👨‍🏫 Teaching and Supervision
+
+**Teaching Assistant — Chalmers University of Technology**  
+*August 2025–Present*
+
+Applied Object-Oriented Programming (**EEN060/EEN065**): examination design, Python exercises, and laboratory sessions.
+
+**Bachelor’s Thesis Supervisor — Chalmers University of Technology**  
+*2026 · Completed*
+
+Supervised *Autonomous Knowledge Agent: From Query to Report without Human Guidance*.
 
 ---
 
 ## 🎓 Education
-### MSc in Telecommunication Engineering 
-**Politecnico di Milano** 
-- Specialization: Signals and Data Analysis  
-- Thesis: Continuous IMU-MEMS Self-Calibration Process by Means of Tiny Neural Networks
 
-### BSc in Computer Science 
-**Kharazmi University of Tehran** 
-- Thesis: Automatic Architecture Design of CNNs using Genetic Algorithm and Reinforcement Learning (MetaQNN)
+### PhD in Electrical Engineering — In Progress
 
-## 🏆 Involvement  
-- IEEE student member
-- Member of **PoliMi Data Science Association**.
-- Executive Staff at **CICIS 2019** national conference.
+**Chalmers University of Technology · 2025–Present**
 
+- Division: Communication, Antennas and Optical Networks
+- Supervisor: Prof. Paolo Monti
+- Co-supervisor: Dr. Carlos Natalino
+
+### MSc in Telecommunication Engineering
+
+**Politecnico di Milano · 2021–2024**
+
+- Specialization: Signals and Data Analysis
+- Thesis: *Continuous IMU-MEMS Self-Calibration Process by Means of Tiny Neural Networks*
+
+### BSc in Computer Science
+
+**Kharazmi University · 2014–2020**
+
+- Thesis: *Automatic Architecture Design of CNNs Using Genetic Algorithms and Reinforcement Learning (MetaQNN)*
+
+---
+
+## 🤝 Academic Community
+
+- IEEE Student Member
+- Research experience with the **PoliMi Data Science Association**
+- Executive Staff, **CICIS 2019**
