@@ -6,15 +6,12 @@
 
 <h3>🚀 About Me</h3>
 
-<img src="https://kiarashrezaei.github.io/kiarash-rezaei/assets/images/photo.jpg" alt="Kiarash Rezaei" width="140" align="left" hspace="15">
-
 <p>I’m a doctoral researcher at <strong>Chalmers University of Technology</strong>, developing methods for <strong>uncertainty quantification</strong>, <strong>conformal prediction</strong>, and <strong>risk control</strong> for trustworthy autonomous networks.</p>
 
 <p>Previously, I worked in AI research and data science at <strong>STMicroelectronics</strong>, <strong>AGap2/RINA</strong>, <strong>DataLobster</strong>, and <strong>Envision</strong>. I hold an MSc in <strong>Telecommunication Engineering</strong> from <strong>Politecnico di Milano</strong>.</p>
 
 <p>📫 <a href="https://linkedin.com/in/kiarash-rezaei-149b4b175">LinkedIn</a> · <a href="mailto:kiarashr@chalmers.se">Email</a> · <a href="https://kiarashrezaei.github.io/kiarash-rezaei/">Website</a></p>
 
-<br clear="left">
 
 </td>
 </tr>
